@@ -1,0 +1,58 @@
+body {
+  font-family: "microsoft yahei";
+  font-size: 16px; }
+
+.question {
+  width: 750px;
+  position: absolute;
+  border: 2px solid #ccc;
+  outline: none; }
+
+.size_1 {
+  width: 37px;
+  height: 20px; }
+
+.size_2 {
+  width: 74px;
+  height: 20px; }
+
+.size_3 {
+  width: 111px;
+  height: 20px; }
+
+.size_4 {
+  width: 148px;
+  height: 20px; }
+
+.size_5 {
+  width: 185px;
+  height: 20px; }
+
+.under {
+  border: 0px;
+  border-bottom: 1px solid rebeccapurple;
+  outline: none; }
+
+input:hover {
+  cursor: pointer; }
+
+.nsize_1 {
+  width: 15px;
+  height: 15px; }
+
+.nsize_2 {
+  width: 21px;
+  height: 21px; }
+
+.nsize_3 {
+  width: 27px;
+  height: 27px; }
+
+.nsize_4 {
+  width: 33px;
+  height: 33px; }
+
+.input {
+  margin-left: 10px; }
+
+/*# sourceMappingURL=add_question.css.map */
